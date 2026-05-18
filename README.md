@@ -1,3 +1,6 @@
+# dont use this
+use `https://github.com/clod44/ExuiSpeedometer` instead
+
 # Speedometer
 exui template
 
